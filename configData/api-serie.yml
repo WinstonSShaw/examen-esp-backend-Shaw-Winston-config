@@ -16,7 +16,7 @@ spring:
 
   mongodb:
     embedded:
-      version: 3.6.0
+      version: 4.0.2
 
   data:
     mongodb:
